@@ -8,6 +8,10 @@
 * You have already received Read access to the repo
 * You can fork the repo
 * `yarn start` to run project
-* Make changes required
-* Please raise a PR with proper title and description
+* Make changes required and push it.
+* Deploy/Publish it to a service like netlify or BitBucket
+* Please raise a Pull Request with proper title and description
+	* Make sure to Mention if you have added any library/plugin to the code
+	* Also please mention link to published website
+* Make sure not to add any unstable/alpha/beta release versions
 * Please don't eject CRA at any point

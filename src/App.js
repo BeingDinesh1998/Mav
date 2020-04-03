@@ -1,25 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Container, Segment, Image, Header, Icon } from "semantic-ui-react";
+import logo from "./logo.png";
+import "./App.scss";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+		<Container>
+			<Segment basic padded='very'>
+			  <Image src={logo} size="medium" centered />
+			  <Header textAlign="center">Maverick AI - React boilerplate</Header>
+			</Segment>
+			<Segment basic>
+				<Header icon textAlign="center" as='h1'>
+					<Icon name="quote left"/>
+					First, solve the problem. Then, write the code.
+				</Header>
+			</Segment>
+		</Container>
   );
 }
 
