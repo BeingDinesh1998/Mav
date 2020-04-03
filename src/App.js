@@ -13,7 +13,7 @@ function App() {
 			<Segment basic>
 				<Header icon textAlign="center" as='h1'>
 					<Icon name="quote left"/>
-					First, solve the problem. Then, write the code.
+					First, solve the problem. Then, write the code."
 				</Header>
 			</Segment>
 		</Container>
