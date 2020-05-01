@@ -9,7 +9,9 @@
     "node-sass": "^4.13.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.1",
+    "react-semantic-ui-datepickers": "^2.6.0-beta.0",
     "semantic-ui-react": "^0.88.2",
     "semantic-ui-sass": "^2.4.2"
   },
@@ -33,5 +35,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy": "http://localhost:5000/"
 }
