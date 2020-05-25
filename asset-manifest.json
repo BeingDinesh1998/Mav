@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Mav/static/css/main.aac56212.chunk.css",
+    "main.js": "/Mav/static/js/main.b71b4b8f.chunk.js",
+    "main.js.map": "/Mav/static/js/main.b71b4b8f.chunk.js.map",
+    "runtime-main.js": "/Mav/static/js/runtime-main.e259b3a4.js",
+    "runtime-main.js.map": "/Mav/static/js/runtime-main.e259b3a4.js.map",
+    "static/css/2.81a3c6ce.chunk.css": "/Mav/static/css/2.81a3c6ce.chunk.css",
+    "static/js/2.c2f61542.chunk.js": "/Mav/static/js/2.c2f61542.chunk.js",
+    "static/js/2.c2f61542.chunk.js.map": "/Mav/static/js/2.c2f61542.chunk.js.map",
+    "index.html": "/Mav/index.html",
+    "precache-manifest.33fc87fdc1ca1ec5d5577e557894bef5.js": "/Mav/precache-manifest.33fc87fdc1ca1ec5d5577e557894bef5.js",
+    "service-worker.js": "/Mav/service-worker.js",
+    "static/css/2.81a3c6ce.chunk.css.map": "/Mav/static/css/2.81a3c6ce.chunk.css.map",
+    "static/css/main.aac56212.chunk.css.map": "/Mav/static/css/main.aac56212.chunk.css.map",
+    "static/js/2.c2f61542.chunk.js.LICENSE.txt": "/Mav/static/js/2.c2f61542.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/Mav/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo_maverickio.png": "/Mav/static/media/logo_maverickio.c1109efa.png",
+    "static/media/profileImage.jpg": "/Mav/static/media/profileImage.7e76f8a5.jpg",
+    "static/media/upload.png": "/Mav/static/media/upload.db8dc4e1.png",
+    "static/media/user.png": "/Mav/static/media/user.616fcc9d.png",
+    "static/media/video.jpg": "/Mav/static/media/video.764962ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e259b3a4.js",
+    "static/css/2.81a3c6ce.chunk.css",
+    "static/js/2.c2f61542.chunk.js",
+    "static/css/main.aac56212.chunk.css",
+    "static/js/main.b71b4b8f.chunk.js"
+  ]
+}
